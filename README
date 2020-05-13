@@ -8,7 +8,7 @@ Please refer to the following files depending on what you're looking for :
   - LICENSE for the project's license
   - CONTRIBUTING for the process to follow to submit contributions
 
-The more detailed documentation is located into the doc/ directory :
+The more detailed documentation is located in the doc/ directory :
 
   - doc/intro.txt for a quick introduction on HAProxy
   - doc/configuration.txt for the configuration's reference manual
